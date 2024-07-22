@@ -1,5 +1,5 @@
 # Adding config.py file.
-api_keys.py
+api_keys = 53fcf59f786a88f6911a5903aa403d97
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
